@@ -19,7 +19,7 @@ The dashboard successfully isolates critical performance outliers across stores 
 * **Highest Single Store Revenue:** **Baldwin Bikes** emerged as the undisputed top-performing retail location, driving an exceptional **$5.21 Million** in total sales.
 * **Highest Performing Brand:** **Trek** dominated the product distribution network, capturing the highest market share with a total standalone revenue of **$4.60 Million**.
 
-<img src=""C:\Users\SUHAIL ALAM\Pictures\Screenshots\Screenshot 2026-05-27 125637.png"" alt="Bike Sales Analysis Dashboard Executive Overview" width="100%">
+<img src="C:\Users\SUHAIL ALAM\Pictures\Screenshots\Screenshot 2026-05-27 125637.png" alt="Bike Sales Analysis Dashboard Executive Overview" width="100%">
 
 ---
 
